@@ -4,7 +4,7 @@
 .\"
 .\"
 .\"
-.TH _PRINTF "July 10 2022" "0.1" "Library functions manual"
+.TH _PRINTF "July 12 2022" "0.1" "Library functions manual"
 
 .SH NAME
 .SH ""
@@ -125,8 +125,8 @@ hexadecimal preceded by \x
 .SH "AUTHORS"
 .SH ""
 
-EGUNJOBI YETUNDE AND SANI IBRAHIM
+Bill Kipkemboi AND Judy Nicole
 
 .B Twitter
 .PP
-@Judy Nicole and @Bill kipkemboi
+@Jnicole20 and @Bil_lkimutai
